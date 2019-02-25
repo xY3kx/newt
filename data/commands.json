@@ -1,0 +1,1 @@
+[null,{"name":"purge","permissions":"ADMINISTRATOR","restriction":"1","actions":[{"info":"0","infoIndex":"1","storage":"1","varName":"amount","name":"Store Command Params"},{"channel":"0","count":"${tempVars(\"amount\")}","condition":"0","custom":"","varName":"","name":"Delete Bulk Messages"},{"storage":"0","varName":"","name":"Delete Message"}]}]

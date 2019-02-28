@@ -1,2 +1,3 @@
 # newt
-Newt Discord Bot
+The Newt Discord Bot
+Still under development
